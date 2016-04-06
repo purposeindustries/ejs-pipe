@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var subarg = require('subarg');
 var sink = require('sink-transform');
 var ejs = require('ejs');
