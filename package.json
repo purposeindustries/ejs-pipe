@@ -1,0 +1,33 @@
+{
+  "name": "ejs-pipe",
+  "version": "1.0.0",
+  "description": "ejs templating from terminal, built for piping",
+  "main": "bin.js",
+  "bin": "bin.js",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "sink-transform": "^1.0.0",
+    "subarg": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purposeindustries/ejs-pipe.git"
+  },
+  "keywords": [
+    "ejs",
+    "template",
+    "terminal",
+    "cli",
+    "bin"
+  ],
+  "author": "oroce <robert@oroszi.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purposeindustries/ejs-pipe/issues"
+  },
+  "homepage": "https://github.com/purposeindustries/ejs-pipe"
+}
